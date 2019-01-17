@@ -32,9 +32,9 @@ BaselineOfHomework >> baseline: spec [
 
 { #category : #baselines }
 BaselineOfHomework >> baselineForClassNamesAnalyzer: spec [
-	spec 
+	spec
 		baseline: 'ClassNamesAnalyzer'
-		with: [ spec repository: 'github://MoussaSak/BluePrintVisualization:master/repository' ]
+		with: [ spec repository: 'github://MoussaSak/BluePrintVisualization:39ac59e5b9a3a68b5de349225e5f78161a74d104/repository' ]
 ]
 
 { #category : #baselines }
